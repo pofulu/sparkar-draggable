@@ -6,7 +6,7 @@
 0. Download [Draggable.js](https://github.com/pofulu/sparkar-draggable/releases/latest/download/Draggable.js) and  [Draggable.d.ts](https://github.com/pofulu/sparkar-draggable/releases/latest/download/Draggable.d.ts)
 
 1. Drag/Import it into your project.
-2. Import `Ease` and `PFTween` module at the top of your script.
+2. Import the functions you need at the top of your script.
     ```javascript
     import { 
       moveByPanGesture,
